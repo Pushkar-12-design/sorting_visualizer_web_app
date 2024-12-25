@@ -7,6 +7,11 @@ function App() {
   return (
     <>
       <MovieCard movie={{tittle: "Pushpa 2", release_date: "12-12-2024"}}/>
+      <MovieCard movie={{tittle: "Pushpa 2", release_date: "12-12-2024"}}/>
+      <MovieCard movie={{tittle: "Pushpa 2", release_date: "12-12-2024"}}/>
+      <MovieCard movie={{tittle: "Pushpa 2", release_date: "12-12-2024"}}/>
+      <MovieCard movie={{tittle: "Pushpa 2", release_date: "12-12-2024"}}/>
+      <MovieCard movie={{tittle: "Pushpa 2", release_date: "12-12-2024"}}/>
     </>
   )
 }
